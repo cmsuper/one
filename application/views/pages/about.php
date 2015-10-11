@@ -1,0 +1,1 @@
+Hello About PHP. INI adalah halaman default About PHP

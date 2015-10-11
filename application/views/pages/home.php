@@ -1,0 +1,1 @@
+Hello Home PHP. INI adalah halaman default Home PHP
